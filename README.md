@@ -44,15 +44,15 @@ For more information about this dataset, please contact Anna Jacobsen at ravensc
 
 REFERENCES
 
-Boyle WA, Martin K. 2015. The conservation value of high elevation habitats to North American migrant birds. Biological Conservation. 192:461–476. doi:10.1016/j.biocon.2015.10.008.
+Boyle WA, Martin K. 2015. The conservation value of high elevation habitats to North American migrant birds. Biological Conservation. 192:461–476. doi:10.1016/j.biocon.2015.10.008
 
-Martin K, Altamirano TA, de Zwaan DR, Hick KG, Vanderpas A, Wilson S. 2021. Avian ecology and community structure across elevation gradients: The importance of high latitude temperate mountain habitats for conserving biodiversity in the Americas. Global Ecology and Conservation. 30:e01799. doi:10.1016/j.gecco.2021.e01799.
+Martin K, Altamirano TA, de Zwaan DR, Hick KG, Vanderpas A, Wilson S. 2021. Avian ecology and community structure across elevation gradients: The importance of high latitude temperate mountain habitats for conserving biodiversity in the Americas. Global Ecology and Conservation. 30:e01799. doi:10.1016/j.gecco.2021.e01799
 
-Nagy L, Grabherr G. 2009. The Biology of Alpine Habitats. Oxford University Press Oxford. doi: 10.1093/oso/9780198567035.001.0001.
+Nagy L, Grabherr G. 2009. The Biology of Alpine Habitats. Oxford University Press Oxford. doi: 10.1093/oso/9780198567035.001.0001
 
-Thompson SJ, Handel CM, Richardson RM, McNew LB. 2016. When winners become losers: Predicted nonlinear responses of arctic birds to increasing woody vegetation. PLoS One. 11(11). doi:10.1371/journal.pone.0164755.
+Thompson SJ, Handel CM, Richardson RM, McNew LB. 2016. When winners become losers: Predicted nonlinear responses of arctic birds to increasing woody vegetation. PLoS One. 11(11). doi:10.1371/journal.pone.0164755
 
 Wang JA, Sulla-Menashe D, Woodcock CE, Sonnentag O, Keeling RF, Friedl MA. 2019. ABoVE: Landsat-derived Annual Dominant Land Cover Across ABoVE Core Domain, 1984-2014. ORNL DAAC, Oak Ridge, Tennessee, USA. https://doi.org/10.3334/ORNLDAAC/1691
 
-van Wilgenburg SL, Lisa Mahon C, Campbell G, McLeod L, Campbell M, Evans D, Easton W, Francis CM, Haché S, Machtans CS, et al. 2020. A cost efficient spatially balanced hierarchical sampling design for monitoring boreal birds incorporating access costs and habitat stratification. PLoS One. 15(6). doi:10.1371/journal.pone.0234494.
+van Wilgenburg SL, Lisa Mahon C, Campbell G, McLeod L, Campbell M, Evans D, Easton W, Francis CM, Haché S, Machtans CS, et al. 2020. A cost efficient spatially balanced hierarchical sampling design for monitoring boreal birds incorporating access costs and habitat stratification. PLoS One. 15(6). doi:10.1371/journal.pone.0234494
 
