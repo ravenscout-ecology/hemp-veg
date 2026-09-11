@@ -1,0 +1,24 @@
+Field,Table,Field_Description,Values_lookup
+location,YT_HighElevationMonitoringProgram_Veg_2022_Data,Location name as seen on ECCC Open Data platform and WildTrax; associated with bird data,
+MntCode,YT_HighElevationMonitoringProgram_Veg_2022_Data,Three letter mountain code,See Lookups
+HabZ,YT_HighElevationMonitoringProgram_Veg_2022_Data,Habitat zone,See Lookups
+SamSite,YT_HighElevationMonitoringProgram_Veg_2022_Data,Two digit sample site name for analysis; may differ from suffix of WildTrax location name,
+latitude,YT_HighElevationMonitoringProgram_Veg_2022_Data,Latitude of vegetation sample site,
+longitude,YT_HighElevationMonitoringProgram_Veg_2022_Data,Longitude of vegetation sample site,
+date,YT_HighElevationMonitoringProgram_Veg_2022_Data,Date data were collected in YYYY-MM-DD,
+direction,YT_HighElevationMonitoringProgram_Veg_2022_Data,Bounding cardinal directions of sampling quarter,See Lookups
+meas_num,YT_HighElevationMonitoringProgram_Veg_2022_Data,Nearest or second nearest shrub to the centrally located ARU,See Lookups
+h_category,YT_HighElevationMonitoringProgram_Veg_2022_Data,Shrub height category; NA indicates no shrub present,See Lookups
+height,YT_HighElevationMonitoringProgram_Veg_2022_Data,Height of the shrub in centimeters; NA indicates no shrub present,
+distance,YT_HighElevationMonitoringProgram_Veg_2022_Data,Distance of the shrub to the centrally located ARU in centimeters; NA indicates no shrub present,
+stem_count,YT_HighElevationMonitoringProgram_Veg_2022_Data,Number of ground-growing stems of shrub; NA indicates no shrub present,
+genu_spp,YT_HighElevationMonitoringProgram_Veg_2022_Data,Four letter Genus and three letter Species codes; NA indicates no shrub present,See VegetationCodes
+health,YT_HighElevationMonitoringProgram_Veg_2022_Data,Health of the shrub; NA indicates no shrub present,See Lookups
+fruit,YT_HighElevationMonitoringProgram_Veg_2022_Data,Fruiting capabilities of the shrub; NA indicates no shrub present,See Lookups
+structure,YT_HighElevationMonitoringProgram_Veg_2022_Data,Shrub structure; NA indicates no shrub present,See Lookups
+Lookup_field_name,YT_HighElevationMonitoringProgram_Veg_2022_Lookups,Name of field with a lookup table,
+Value,YT_HighElevationMonitoringProgram_Veg_2022_Lookups,Value in lookup field,
+Value_description,YT_HighElevationMonitoringProgram_Veg_2022_Lookups,Description of value,
+Project_code,YT_HighElevationMonitoringProgram_Veg_2022_VegetationCodes,Species code used in project data file,
+Common_name,YT_HighElevationMonitoringProgram_Veg_2022_VegetationCodes,Specie common name,
+Scientific_name,YT_HighElevationMonitoringProgram_Veg_2022_VegetationCodes,Species scientific name,

@@ -1,0 +1,29 @@
+Lookup_field_name, Value, Value_description
+MntCode,AND,Anderson Mountain
+MntCode,GOL,Goldenhorn Mountain
+MntCode,IBE,Ibex Ridge
+MntCode,LOR,Mount Lorne
+MntCode,MON,Montana Mountain/Sam McGee Trail
+MntCode,ROC,Rock Glacier
+MntCode,SHE,Sheep Mountain/Sheep Creek
+MntCode,STO,Stony Creek/Stony Mountain
+MntCode,TAL,Tally-Ho Mountain
+MntCode,TOR,The Tors/Tors Mountain
+HabZ,S,Subalpine habitat zone
+HabZ,T,Alpine habitat zone
+direction,NE,Sampling quarter ranging from north to east
+direction,ES,Sampling quarter ranging from east to south
+direction,SW,Sampling quarter ranging from south to west
+direction,WN,Sampling quarter ranging from west to north
+meas_num,1,Shrub nearest to centrally located ARU
+meas_num,2,Shrub second nearest to centrally located ARU
+h_category,VLS,Very Low Shrub (0.15-0.5 m tall)
+h_category,LS,Low Shrub (0.5-1 m tall)
+h_category,MW,Medium shrub (1-2 m tall)
+h_category,TS,Tall shrub (2-10 m tall)
+health,L,Living
+health,D,Dead
+fruit,FA,Fruit Absent; shrub does not bear fruit or does not have the potential to bear fruit
+fruit,FP,Fruit Present; shrub bears fruit or has the potential to bear fruit
+structure,E,Erect; standing upright
+structure,M,Matted; growing along ground in a creeping or matted fashion
